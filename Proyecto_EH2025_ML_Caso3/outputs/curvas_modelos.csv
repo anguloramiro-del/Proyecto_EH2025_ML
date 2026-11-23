@@ -1,0 +1,613 @@
+objetivo,modelo,curva,x,y
+Percepcion_Discriminacion,Regresión logística,ROC,0.0,0.0
+Percepcion_Discriminacion,Regresión logística,ROC,0.02,0.0205
+Percepcion_Discriminacion,Regresión logística,ROC,0.04,0.0923
+Percepcion_Discriminacion,Regresión logística,ROC,0.06,0.1306
+Percepcion_Discriminacion,Regresión logística,ROC,0.08,0.1792
+Percepcion_Discriminacion,Regresión logística,ROC,0.1,0.2197
+Percepcion_Discriminacion,Regresión logística,ROC,0.12,0.3018
+Percepcion_Discriminacion,Regresión logística,ROC,0.14,0.3191
+Percepcion_Discriminacion,Regresión logística,ROC,0.16,0.3617
+Percepcion_Discriminacion,Regresión logística,ROC,0.18,0.3813
+Percepcion_Discriminacion,Regresión logística,ROC,0.2,0.3999
+Percepcion_Discriminacion,Regresión logística,ROC,0.22,0.414
+Percepcion_Discriminacion,Regresión logística,ROC,0.24,0.4459
+Percepcion_Discriminacion,Regresión logística,ROC,0.26,0.465
+Percepcion_Discriminacion,Regresión logística,ROC,0.28,0.4833
+Percepcion_Discriminacion,Regresión logística,ROC,0.3,0.5086
+Percepcion_Discriminacion,Regresión logística,ROC,0.32,0.5243
+Percepcion_Discriminacion,Regresión logística,ROC,0.34,0.533
+Percepcion_Discriminacion,Regresión logística,ROC,0.36,0.5504
+Percepcion_Discriminacion,Regresión logística,ROC,0.38,0.5827
+Percepcion_Discriminacion,Regresión logística,ROC,0.4,0.5934
+Percepcion_Discriminacion,Regresión logística,ROC,0.42,0.609
+Percepcion_Discriminacion,Regresión logística,ROC,0.44,0.6256
+Percepcion_Discriminacion,Regresión logística,ROC,0.46,0.633
+Percepcion_Discriminacion,Regresión logística,ROC,0.48,0.6618
+Percepcion_Discriminacion,Regresión logística,ROC,0.5,0.6715
+Percepcion_Discriminacion,Regresión logística,ROC,0.52,0.6877
+Percepcion_Discriminacion,Regresión logística,ROC,0.54,0.7041
+Percepcion_Discriminacion,Regresión logística,ROC,0.56,0.7073
+Percepcion_Discriminacion,Regresión logística,ROC,0.58,0.7398
+Percepcion_Discriminacion,Regresión logística,ROC,0.6,0.7535
+Percepcion_Discriminacion,Regresión logística,ROC,0.62,0.7621
+Percepcion_Discriminacion,Regresión logística,ROC,0.64,0.7764
+Percepcion_Discriminacion,Regresión logística,ROC,0.66,0.786
+Percepcion_Discriminacion,Regresión logística,ROC,0.68,0.7934
+Percepcion_Discriminacion,Regresión logística,ROC,0.7,0.8099
+Percepcion_Discriminacion,Regresión logística,ROC,0.72,0.8125
+Percepcion_Discriminacion,Regresión logística,ROC,0.74,0.8145
+Percepcion_Discriminacion,Regresión logística,ROC,0.76,0.8204
+Percepcion_Discriminacion,Regresión logística,ROC,0.78,0.8447
+Percepcion_Discriminacion,Regresión logística,ROC,0.8,0.8584
+Percepcion_Discriminacion,Regresión logística,ROC,0.82,0.8951
+Percepcion_Discriminacion,Regresión logística,ROC,0.84,0.9098
+Percepcion_Discriminacion,Regresión logística,ROC,0.86,0.9195
+Percepcion_Discriminacion,Regresión logística,ROC,0.88,0.9312
+Percepcion_Discriminacion,Regresión logística,ROC,0.9,0.9437
+Percepcion_Discriminacion,Regresión logística,ROC,0.92,0.9573
+Percepcion_Discriminacion,Regresión logística,ROC,0.94,0.9678
+Percepcion_Discriminacion,Regresión logística,ROC,0.96,0.9768
+Percepcion_Discriminacion,Regresión logística,ROC,0.98,0.9863
+Percepcion_Discriminacion,Regresión logística,ROC,1.0,1.0
+Percepcion_Discriminacion,Regresión logística,PR,0.0,0.0
+Percepcion_Discriminacion,Regresión logística,PR,0.02,0.1731
+Percepcion_Discriminacion,Regresión logística,PR,0.04,0.2328
+Percepcion_Discriminacion,Regresión logística,PR,0.06,0.2641
+Percepcion_Discriminacion,Regresión logística,PR,0.08,0.2993
+Percepcion_Discriminacion,Regresión logística,PR,0.1,0.3044
+Percepcion_Discriminacion,Regresión logística,PR,0.12,0.3026
+Percepcion_Discriminacion,Regresión logística,PR,0.14,0.3101
+Percepcion_Discriminacion,Regresión logística,PR,0.16,0.3209
+Percepcion_Discriminacion,Regresión logística,PR,0.18,0.2959
+Percepcion_Discriminacion,Regresión logística,PR,0.2,0.3157
+Percepcion_Discriminacion,Regresión logística,PR,0.22,0.2932
+Percepcion_Discriminacion,Regresión logística,PR,0.24,0.3051
+Percepcion_Discriminacion,Regresión logística,PR,0.26,0.32
+Percepcion_Discriminacion,Regresión logística,PR,0.28,0.3299
+Percepcion_Discriminacion,Regresión logística,PR,0.3,0.3338
+Percepcion_Discriminacion,Regresión logística,PR,0.32,0.3023
+Percepcion_Discriminacion,Regresión logística,PR,0.34,0.3035
+Percepcion_Discriminacion,Regresión logística,PR,0.36,0.3036
+Percepcion_Discriminacion,Regresión logística,PR,0.38,0.2959
+Percepcion_Discriminacion,Regresión logística,PR,0.4,0.275
+Percepcion_Discriminacion,Regresión logística,PR,0.42,0.2658
+Percepcion_Discriminacion,Regresión logística,PR,0.44,0.2656
+Percepcion_Discriminacion,Regresión logística,PR,0.46,0.2579
+Percepcion_Discriminacion,Regresión logística,PR,0.48,0.2521
+Percepcion_Discriminacion,Regresión logística,PR,0.5,0.2459
+Percepcion_Discriminacion,Regresión logística,PR,0.52,0.2407
+Percepcion_Discriminacion,Regresión logística,PR,0.54,0.2314
+Percepcion_Discriminacion,Regresión logística,PR,0.56,0.2264
+Percepcion_Discriminacion,Regresión logística,PR,0.58,0.2322
+Percepcion_Discriminacion,Regresión logística,PR,0.6,0.2175
+Percepcion_Discriminacion,Regresión logística,PR,0.62,0.2165
+Percepcion_Discriminacion,Regresión logística,PR,0.64,0.2092
+Percepcion_Discriminacion,Regresión logística,PR,0.66,0.2105
+Percepcion_Discriminacion,Regresión logística,PR,0.68,0.203
+Percepcion_Discriminacion,Regresión logística,PR,0.7,0.2012
+Percepcion_Discriminacion,Regresión logística,PR,0.72,0.1982
+Percepcion_Discriminacion,Regresión logística,PR,0.74,0.1979
+Percepcion_Discriminacion,Regresión logística,PR,0.76,0.1918
+Percepcion_Discriminacion,Regresión logística,PR,0.78,0.189
+Percepcion_Discriminacion,Regresión logística,PR,0.8,0.183
+Percepcion_Discriminacion,Regresión logística,PR,0.82,0.1729
+Percepcion_Discriminacion,Regresión logística,PR,0.84,0.1728
+Percepcion_Discriminacion,Regresión logística,PR,0.86,0.1721
+Percepcion_Discriminacion,Regresión logística,PR,0.88,0.175
+Percepcion_Discriminacion,Regresión logística,PR,0.9,0.1747
+Percepcion_Discriminacion,Regresión logística,PR,0.92,0.1704
+Percepcion_Discriminacion,Regresión logística,PR,0.94,0.1685
+Percepcion_Discriminacion,Regresión logística,PR,0.96,0.1672
+Percepcion_Discriminacion,Regresión logística,PR,0.98,0.1645
+Percepcion_Discriminacion,Regresión logística,PR,1.0,0.1621
+Percepcion_Discriminacion,Random Forest,ROC,0.0,0.0
+Percepcion_Discriminacion,Random Forest,ROC,0.02,0.041
+Percepcion_Discriminacion,Random Forest,ROC,0.04,0.0978
+Percepcion_Discriminacion,Random Forest,ROC,0.06,0.1506
+Percepcion_Discriminacion,Random Forest,ROC,0.08,0.179
+Percepcion_Discriminacion,Random Forest,ROC,0.1,0.2296
+Percepcion_Discriminacion,Random Forest,ROC,0.12,0.2595
+Percepcion_Discriminacion,Random Forest,ROC,0.14,0.2824
+Percepcion_Discriminacion,Random Forest,ROC,0.16,0.3305
+Percepcion_Discriminacion,Random Forest,ROC,0.18,0.3623
+Percepcion_Discriminacion,Random Forest,ROC,0.2,0.3726
+Percepcion_Discriminacion,Random Forest,ROC,0.22,0.3849
+Percepcion_Discriminacion,Random Forest,ROC,0.24,0.4076
+Percepcion_Discriminacion,Random Forest,ROC,0.26,0.4628
+Percepcion_Discriminacion,Random Forest,ROC,0.28,0.4747
+Percepcion_Discriminacion,Random Forest,ROC,0.3,0.4771
+Percepcion_Discriminacion,Random Forest,ROC,0.32,0.5041
+Percepcion_Discriminacion,Random Forest,ROC,0.34,0.5304
+Percepcion_Discriminacion,Random Forest,ROC,0.36,0.5368
+Percepcion_Discriminacion,Random Forest,ROC,0.38,0.5488
+Percepcion_Discriminacion,Random Forest,ROC,0.4,0.5637
+Percepcion_Discriminacion,Random Forest,ROC,0.42,0.5892
+Percepcion_Discriminacion,Random Forest,ROC,0.44,0.6017
+Percepcion_Discriminacion,Random Forest,ROC,0.46,0.6212
+Percepcion_Discriminacion,Random Forest,ROC,0.48,0.6579
+Percepcion_Discriminacion,Random Forest,ROC,0.5,0.6651
+Percepcion_Discriminacion,Random Forest,ROC,0.52,0.6789
+Percepcion_Discriminacion,Random Forest,ROC,0.54,0.7022
+Percepcion_Discriminacion,Random Forest,ROC,0.56,0.7172
+Percepcion_Discriminacion,Random Forest,ROC,0.58,0.7233
+Percepcion_Discriminacion,Random Forest,ROC,0.6,0.7441
+Percepcion_Discriminacion,Random Forest,ROC,0.62,0.7547
+Percepcion_Discriminacion,Random Forest,ROC,0.64,0.7682
+Percepcion_Discriminacion,Random Forest,ROC,0.66,0.7756
+Percepcion_Discriminacion,Random Forest,ROC,0.68,0.8053
+Percepcion_Discriminacion,Random Forest,ROC,0.7,0.8193
+Percepcion_Discriminacion,Random Forest,ROC,0.72,0.8385
+Percepcion_Discriminacion,Random Forest,ROC,0.74,0.854
+Percepcion_Discriminacion,Random Forest,ROC,0.76,0.8621
+Percepcion_Discriminacion,Random Forest,ROC,0.78,0.8738
+Percepcion_Discriminacion,Random Forest,ROC,0.8,0.8884
+Percepcion_Discriminacion,Random Forest,ROC,0.82,0.9086
+Percepcion_Discriminacion,Random Forest,ROC,0.84,0.9142
+Percepcion_Discriminacion,Random Forest,ROC,0.86,0.936
+Percepcion_Discriminacion,Random Forest,ROC,0.88,0.9581
+Percepcion_Discriminacion,Random Forest,ROC,0.9,0.9795
+Percepcion_Discriminacion,Random Forest,ROC,0.92,0.9878
+Percepcion_Discriminacion,Random Forest,ROC,0.94,0.9973
+Percepcion_Discriminacion,Random Forest,ROC,0.96,0.9992
+Percepcion_Discriminacion,Random Forest,ROC,0.98,0.9992
+Percepcion_Discriminacion,Random Forest,ROC,1.0,1.0
+Percepcion_Discriminacion,Random Forest,PR,0.0,0.0
+Percepcion_Discriminacion,Random Forest,PR,0.02,0.2283
+Percepcion_Discriminacion,Random Forest,PR,0.04,0.2903
+Percepcion_Discriminacion,Random Forest,PR,0.06,0.2961
+Percepcion_Discriminacion,Random Forest,PR,0.08,0.3332
+Percepcion_Discriminacion,Random Forest,PR,0.1,0.3201
+Percepcion_Discriminacion,Random Forest,PR,0.12,0.3514
+Percepcion_Discriminacion,Random Forest,PR,0.14,0.3227
+Percepcion_Discriminacion,Random Forest,PR,0.16,0.3126
+Percepcion_Discriminacion,Random Forest,PR,0.18,0.3003
+Percepcion_Discriminacion,Random Forest,PR,0.2,0.301
+Percepcion_Discriminacion,Random Forest,PR,0.22,0.3078
+Percepcion_Discriminacion,Random Forest,PR,0.24,0.3074
+Percepcion_Discriminacion,Random Forest,PR,0.26,0.2947
+Percepcion_Discriminacion,Random Forest,PR,0.28,0.2799
+Percepcion_Discriminacion,Random Forest,PR,0.3,0.2864
+Percepcion_Discriminacion,Random Forest,PR,0.32,0.29
+Percepcion_Discriminacion,Random Forest,PR,0.34,0.2832
+Percepcion_Discriminacion,Random Forest,PR,0.36,0.2852
+Percepcion_Discriminacion,Random Forest,PR,0.38,0.2544
+Percepcion_Discriminacion,Random Forest,PR,0.4,0.255
+Percepcion_Discriminacion,Random Forest,PR,0.42,0.2459
+Percepcion_Discriminacion,Random Forest,PR,0.44,0.2528
+Percepcion_Discriminacion,Random Forest,PR,0.46,0.2556
+Percepcion_Discriminacion,Random Forest,PR,0.48,0.2324
+Percepcion_Discriminacion,Random Forest,PR,0.5,0.2384
+Percepcion_Discriminacion,Random Forest,PR,0.52,0.2335
+Percepcion_Discriminacion,Random Forest,PR,0.54,0.2221
+Percepcion_Discriminacion,Random Forest,PR,0.56,0.2166
+Percepcion_Discriminacion,Random Forest,PR,0.58,0.2128
+Percepcion_Discriminacion,Random Forest,PR,0.6,0.2117
+Percepcion_Discriminacion,Random Forest,PR,0.62,0.208
+Percepcion_Discriminacion,Random Forest,PR,0.64,0.2081
+Percepcion_Discriminacion,Random Forest,PR,0.66,0.2082
+Percepcion_Discriminacion,Random Forest,PR,0.68,0.2014
+Percepcion_Discriminacion,Random Forest,PR,0.7,0.201
+Percepcion_Discriminacion,Random Forest,PR,0.72,0.1969
+Percepcion_Discriminacion,Random Forest,PR,0.74,0.1963
+Percepcion_Discriminacion,Random Forest,PR,0.76,0.1903
+Percepcion_Discriminacion,Random Forest,PR,0.78,0.1856
+Percepcion_Discriminacion,Random Forest,PR,0.8,0.1875
+Percepcion_Discriminacion,Random Forest,PR,0.82,0.1828
+Percepcion_Discriminacion,Random Forest,PR,0.84,0.1839
+Percepcion_Discriminacion,Random Forest,PR,0.86,0.1812
+Percepcion_Discriminacion,Random Forest,PR,0.88,0.178
+Percepcion_Discriminacion,Random Forest,PR,0.9,0.1759
+Percepcion_Discriminacion,Random Forest,PR,0.92,0.1743
+Percepcion_Discriminacion,Random Forest,PR,0.94,0.1734
+Percepcion_Discriminacion,Random Forest,PR,0.96,0.174
+Percepcion_Discriminacion,Random Forest,PR,0.98,0.1719
+Percepcion_Discriminacion,Random Forest,PR,1.0,0.1621
+Percepcion_Discriminacion,XGBoost,ROC,0.0,0.0
+Percepcion_Discriminacion,XGBoost,ROC,0.02,0.0193
+Percepcion_Discriminacion,XGBoost,ROC,0.04,0.0851
+Percepcion_Discriminacion,XGBoost,ROC,0.06,0.1414
+Percepcion_Discriminacion,XGBoost,ROC,0.08,0.1974
+Percepcion_Discriminacion,XGBoost,ROC,0.1,0.2583
+Percepcion_Discriminacion,XGBoost,ROC,0.12,0.2869
+Percepcion_Discriminacion,XGBoost,ROC,0.14,0.343
+Percepcion_Discriminacion,XGBoost,ROC,0.16,0.3704
+Percepcion_Discriminacion,XGBoost,ROC,0.18,0.3986
+Percepcion_Discriminacion,XGBoost,ROC,0.2,0.4287
+Percepcion_Discriminacion,XGBoost,ROC,0.22,0.4441
+Percepcion_Discriminacion,XGBoost,ROC,0.24,0.4528
+Percepcion_Discriminacion,XGBoost,ROC,0.26,0.4786
+Percepcion_Discriminacion,XGBoost,ROC,0.28,0.4857
+Percepcion_Discriminacion,XGBoost,ROC,0.3,0.4962
+Percepcion_Discriminacion,XGBoost,ROC,0.32,0.5038
+Percepcion_Discriminacion,XGBoost,ROC,0.34,0.5244
+Percepcion_Discriminacion,XGBoost,ROC,0.36,0.547
+Percepcion_Discriminacion,XGBoost,ROC,0.38,0.5734
+Percepcion_Discriminacion,XGBoost,ROC,0.4,0.5907
+Percepcion_Discriminacion,XGBoost,ROC,0.42,0.6049
+Percepcion_Discriminacion,XGBoost,ROC,0.44,0.6149
+Percepcion_Discriminacion,XGBoost,ROC,0.46,0.6179
+Percepcion_Discriminacion,XGBoost,ROC,0.48,0.6463
+Percepcion_Discriminacion,XGBoost,ROC,0.5,0.6517
+Percepcion_Discriminacion,XGBoost,ROC,0.52,0.6755
+Percepcion_Discriminacion,XGBoost,ROC,0.54,0.6875
+Percepcion_Discriminacion,XGBoost,ROC,0.56,0.6972
+Percepcion_Discriminacion,XGBoost,ROC,0.58,0.7152
+Percepcion_Discriminacion,XGBoost,ROC,0.6,0.7411
+Percepcion_Discriminacion,XGBoost,ROC,0.62,0.7522
+Percepcion_Discriminacion,XGBoost,ROC,0.64,0.7618
+Percepcion_Discriminacion,XGBoost,ROC,0.66,0.7707
+Percepcion_Discriminacion,XGBoost,ROC,0.68,0.7836
+Percepcion_Discriminacion,XGBoost,ROC,0.7,0.7869
+Percepcion_Discriminacion,XGBoost,ROC,0.72,0.7947
+Percepcion_Discriminacion,XGBoost,ROC,0.74,0.8225
+Percepcion_Discriminacion,XGBoost,ROC,0.76,0.8469
+Percepcion_Discriminacion,XGBoost,ROC,0.78,0.862
+Percepcion_Discriminacion,XGBoost,ROC,0.8,0.8683
+Percepcion_Discriminacion,XGBoost,ROC,0.82,0.8802
+Percepcion_Discriminacion,XGBoost,ROC,0.84,0.9011
+Percepcion_Discriminacion,XGBoost,ROC,0.86,0.9157
+Percepcion_Discriminacion,XGBoost,ROC,0.88,0.9258
+Percepcion_Discriminacion,XGBoost,ROC,0.9,0.9425
+Percepcion_Discriminacion,XGBoost,ROC,0.92,0.9546
+Percepcion_Discriminacion,XGBoost,ROC,0.94,0.962
+Percepcion_Discriminacion,XGBoost,ROC,0.96,0.9781
+Percepcion_Discriminacion,XGBoost,ROC,0.98,0.9955
+Percepcion_Discriminacion,XGBoost,ROC,1.0,1.0
+Percepcion_Discriminacion,XGBoost,PR,0.0,0.0
+Percepcion_Discriminacion,XGBoost,PR,0.02,0.1411
+Percepcion_Discriminacion,XGBoost,PR,0.04,0.2278
+Percepcion_Discriminacion,XGBoost,PR,0.06,0.2655
+Percepcion_Discriminacion,XGBoost,PR,0.08,0.304
+Percepcion_Discriminacion,XGBoost,PR,0.1,0.3166
+Percepcion_Discriminacion,XGBoost,PR,0.12,0.3348
+Percepcion_Discriminacion,XGBoost,PR,0.14,0.3126
+Percepcion_Discriminacion,XGBoost,PR,0.16,0.3107
+Percepcion_Discriminacion,XGBoost,PR,0.18,0.3125
+Percepcion_Discriminacion,XGBoost,PR,0.2,0.32
+Percepcion_Discriminacion,XGBoost,PR,0.22,0.3089
+Percepcion_Discriminacion,XGBoost,PR,0.24,0.3231
+Percepcion_Discriminacion,XGBoost,PR,0.26,0.3309
+Percepcion_Discriminacion,XGBoost,PR,0.28,0.3268
+Percepcion_Discriminacion,XGBoost,PR,0.3,0.3216
+Percepcion_Discriminacion,XGBoost,PR,0.32,0.3236
+Percepcion_Discriminacion,XGBoost,PR,0.34,0.3202
+Percepcion_Discriminacion,XGBoost,PR,0.36,0.3185
+Percepcion_Discriminacion,XGBoost,PR,0.38,0.3092
+Percepcion_Discriminacion,XGBoost,PR,0.4,0.3003
+Percepcion_Discriminacion,XGBoost,PR,0.42,0.2939
+Percepcion_Discriminacion,XGBoost,PR,0.44,0.285
+Percepcion_Discriminacion,XGBoost,PR,0.46,0.2623
+Percepcion_Discriminacion,XGBoost,PR,0.48,0.2555
+Percepcion_Discriminacion,XGBoost,PR,0.5,0.238
+Percepcion_Discriminacion,XGBoost,PR,0.52,0.2297
+Percepcion_Discriminacion,XGBoost,PR,0.54,0.2262
+Percepcion_Discriminacion,XGBoost,PR,0.56,0.2277
+Percepcion_Discriminacion,XGBoost,PR,0.58,0.2265
+Percepcion_Discriminacion,XGBoost,PR,0.6,0.2184
+Percepcion_Discriminacion,XGBoost,PR,0.62,0.2066
+Percepcion_Discriminacion,XGBoost,PR,0.64,0.2067
+Percepcion_Discriminacion,XGBoost,PR,0.66,0.2003
+Percepcion_Discriminacion,XGBoost,PR,0.68,0.1967
+Percepcion_Discriminacion,XGBoost,PR,0.7,0.1934
+Percepcion_Discriminacion,XGBoost,PR,0.72,0.1923
+Percepcion_Discriminacion,XGBoost,PR,0.74,0.1938
+Percepcion_Discriminacion,XGBoost,PR,0.76,0.1893
+Percepcion_Discriminacion,XGBoost,PR,0.78,0.1819
+Percepcion_Discriminacion,XGBoost,PR,0.8,0.1759
+Percepcion_Discriminacion,XGBoost,PR,0.82,0.177
+Percepcion_Discriminacion,XGBoost,PR,0.84,0.1775
+Percepcion_Discriminacion,XGBoost,PR,0.86,0.1772
+Percepcion_Discriminacion,XGBoost,PR,0.88,0.172
+Percepcion_Discriminacion,XGBoost,PR,0.9,0.1719
+Percepcion_Discriminacion,XGBoost,PR,0.92,0.1695
+Percepcion_Discriminacion,XGBoost,PR,0.94,0.1683
+Percepcion_Discriminacion,XGBoost,PR,0.96,0.1652
+Percepcion_Discriminacion,XGBoost,PR,0.98,0.1648
+Percepcion_Discriminacion,XGBoost,PR,1.0,0.1621
+Victimizacion,Regresión logística,ROC,0.0,0.0
+Victimizacion,Regresión logística,ROC,0.02,0.0441
+Victimizacion,Regresión logística,ROC,0.04,0.078
+Victimizacion,Regresión logística,ROC,0.06,0.0893
+Victimizacion,Regresión logística,ROC,0.08,0.1431
+Victimizacion,Regresión logística,ROC,0.1,0.1708
+Victimizacion,Regresión logística,ROC,0.12,0.2025
+Victimizacion,Regresión logística,ROC,0.14,0.2197
+Victimizacion,Regresión logística,ROC,0.16,0.2225
+Victimizacion,Regresión logística,ROC,0.18,0.2347
+Victimizacion,Regresión logística,ROC,0.2,0.2569
+Victimizacion,Regresión logística,ROC,0.22,0.2699
+Victimizacion,Regresión logística,ROC,0.24,0.2904
+Victimizacion,Regresión logística,ROC,0.26,0.3172
+Victimizacion,Regresión logística,ROC,0.28,0.3391
+Victimizacion,Regresión logística,ROC,0.3,0.3581
+Victimizacion,Regresión logística,ROC,0.32,0.3655
+Victimizacion,Regresión logística,ROC,0.34,0.3798
+Victimizacion,Regresión logística,ROC,0.36,0.3941
+Victimizacion,Regresión logística,ROC,0.38,0.4133
+Victimizacion,Regresión logística,ROC,0.4,0.4299
+Victimizacion,Regresión logística,ROC,0.42,0.4377
+Victimizacion,Regresión logística,ROC,0.44,0.4579
+Victimizacion,Regresión logística,ROC,0.46,0.4723
+Victimizacion,Regresión logística,ROC,0.48,0.5029
+Victimizacion,Regresión logística,ROC,0.5,0.5498
+Victimizacion,Regresión logística,ROC,0.52,0.5695
+Victimizacion,Regresión logística,ROC,0.54,0.5849
+Victimizacion,Regresión logística,ROC,0.56,0.6413
+Victimizacion,Regresión logística,ROC,0.58,0.6787
+Victimizacion,Regresión logística,ROC,0.6,0.6967
+Victimizacion,Regresión logística,ROC,0.62,0.7137
+Victimizacion,Regresión logística,ROC,0.64,0.7249
+Victimizacion,Regresión logística,ROC,0.66,0.7629
+Victimizacion,Regresión logística,ROC,0.68,0.7959
+Victimizacion,Regresión logística,ROC,0.7,0.8038
+Victimizacion,Regresión logística,ROC,0.72,0.8172
+Victimizacion,Regresión logística,ROC,0.74,0.838
+Victimizacion,Regresión logística,ROC,0.76,0.841
+Victimizacion,Regresión logística,ROC,0.78,0.8702
+Victimizacion,Regresión logística,ROC,0.8,0.8702
+Victimizacion,Regresión logística,ROC,0.82,0.8946
+Victimizacion,Regresión logística,ROC,0.84,0.9254
+Victimizacion,Regresión logística,ROC,0.86,0.9425
+Victimizacion,Regresión logística,ROC,0.88,0.9515
+Victimizacion,Regresión logística,ROC,0.9,0.96
+Victimizacion,Regresión logística,ROC,0.92,0.9656
+Victimizacion,Regresión logística,ROC,0.94,0.9798
+Victimizacion,Regresión logística,ROC,0.96,0.9843
+Victimizacion,Regresión logística,ROC,0.98,0.9913
+Victimizacion,Regresión logística,ROC,1.0,1.0
+Victimizacion,Regresión logística,PR,0.0,0.0
+Victimizacion,Regresión logística,PR,0.02,0.4571
+Victimizacion,Regresión logística,PR,0.04,0.2499
+Victimizacion,Regresión logística,PR,0.06,0.2469
+Victimizacion,Regresión logística,PR,0.08,0.2313
+Victimizacion,Regresión logística,PR,0.1,0.1897
+Victimizacion,Regresión logística,PR,0.12,0.2082
+Victimizacion,Regresión logística,PR,0.14,0.2191
+Victimizacion,Regresión logística,PR,0.16,0.2144
+Victimizacion,Regresión logística,PR,0.18,0.2027
+Victimizacion,Regresión logística,PR,0.2,0.2115
+Victimizacion,Regresión logística,PR,0.22,0.184
+Victimizacion,Regresión logística,PR,0.24,0.1637
+Victimizacion,Regresión logística,PR,0.26,0.1636
+Victimizacion,Regresión logística,PR,0.28,0.1604
+Victimizacion,Regresión logística,PR,0.3,0.16
+Victimizacion,Regresión logística,PR,0.32,0.1619
+Victimizacion,Regresión logística,PR,0.34,0.1606
+Victimizacion,Regresión logística,PR,0.36,0.1523
+Victimizacion,Regresión logística,PR,0.38,0.1501
+Victimizacion,Regresión logística,PR,0.4,0.1486
+Victimizacion,Regresión logística,PR,0.42,0.1469
+Victimizacion,Regresión logística,PR,0.44,0.142
+Victimizacion,Regresión logística,PR,0.46,0.1411
+Victimizacion,Regresión logística,PR,0.48,0.1395
+Victimizacion,Regresión logística,PR,0.5,0.143
+Victimizacion,Regresión logística,PR,0.52,0.143
+Victimizacion,Regresión logística,PR,0.54,0.1469
+Victimizacion,Regresión logística,PR,0.56,0.1462
+Victimizacion,Regresión logística,PR,0.58,0.1471
+Victimizacion,Regresión logística,PR,0.6,0.147
+Victimizacion,Regresión logística,PR,0.62,0.1501
+Victimizacion,Regresión logística,PR,0.64,0.1541
+Victimizacion,Regresión logística,PR,0.66,0.1531
+Victimizacion,Regresión logística,PR,0.68,0.1562
+Victimizacion,Regresión logística,PR,0.7,0.1553
+Victimizacion,Regresión logística,PR,0.72,0.1528
+Victimizacion,Regresión logística,PR,0.74,0.1526
+Victimizacion,Regresión logística,PR,0.76,0.156
+Victimizacion,Regresión logística,PR,0.78,0.1559
+Victimizacion,Regresión logística,PR,0.8,0.1542
+Victimizacion,Regresión logística,PR,0.82,0.1514
+Victimizacion,Regresión logística,PR,0.84,0.1498
+Victimizacion,Regresión logística,PR,0.86,0.1498
+Victimizacion,Regresión logística,PR,0.88,0.1472
+Victimizacion,Regresión logística,PR,0.9,0.1473
+Victimizacion,Regresión logística,PR,0.92,0.1482
+Victimizacion,Regresión logística,PR,0.94,0.1482
+Victimizacion,Regresión logística,PR,0.96,0.1455
+Victimizacion,Regresión logística,PR,0.98,0.1409
+Victimizacion,Regresión logística,PR,1.0,0.1367
+Victimizacion,Random Forest,ROC,0.0,0.0
+Victimizacion,Random Forest,ROC,0.02,0.0167
+Victimizacion,Random Forest,ROC,0.04,0.0502
+Victimizacion,Random Forest,ROC,0.06,0.0622
+Victimizacion,Random Forest,ROC,0.08,0.0844
+Victimizacion,Random Forest,ROC,0.1,0.1108
+Victimizacion,Random Forest,ROC,0.12,0.1183
+Victimizacion,Random Forest,ROC,0.14,0.1545
+Victimizacion,Random Forest,ROC,0.16,0.1928
+Victimizacion,Random Forest,ROC,0.18,0.2399
+Victimizacion,Random Forest,ROC,0.2,0.2575
+Victimizacion,Random Forest,ROC,0.22,0.2755
+Victimizacion,Random Forest,ROC,0.24,0.2988
+Victimizacion,Random Forest,ROC,0.26,0.3232
+Victimizacion,Random Forest,ROC,0.28,0.3496
+Victimizacion,Random Forest,ROC,0.3,0.3665
+Victimizacion,Random Forest,ROC,0.32,0.3962
+Victimizacion,Random Forest,ROC,0.34,0.4234
+Victimizacion,Random Forest,ROC,0.36,0.4324
+Victimizacion,Random Forest,ROC,0.38,0.4466
+Victimizacion,Random Forest,ROC,0.4,0.462
+Victimizacion,Random Forest,ROC,0.42,0.4777
+Victimizacion,Random Forest,ROC,0.44,0.4918
+Victimizacion,Random Forest,ROC,0.46,0.5341
+Victimizacion,Random Forest,ROC,0.48,0.5457
+Victimizacion,Random Forest,ROC,0.5,0.549
+Victimizacion,Random Forest,ROC,0.52,0.5587
+Victimizacion,Random Forest,ROC,0.54,0.5927
+Victimizacion,Random Forest,ROC,0.56,0.604
+Victimizacion,Random Forest,ROC,0.58,0.6133
+Victimizacion,Random Forest,ROC,0.6,0.6334
+Victimizacion,Random Forest,ROC,0.62,0.6512
+Victimizacion,Random Forest,ROC,0.64,0.673
+Victimizacion,Random Forest,ROC,0.66,0.6778
+Victimizacion,Random Forest,ROC,0.68,0.6841
+Victimizacion,Random Forest,ROC,0.7,0.7048
+Victimizacion,Random Forest,ROC,0.72,0.7277
+Victimizacion,Random Forest,ROC,0.74,0.7429
+Victimizacion,Random Forest,ROC,0.76,0.749
+Victimizacion,Random Forest,ROC,0.78,0.7596
+Victimizacion,Random Forest,ROC,0.8,0.8037
+Victimizacion,Random Forest,ROC,0.82,0.834
+Victimizacion,Random Forest,ROC,0.84,0.8481
+Victimizacion,Random Forest,ROC,0.86,0.8559
+Victimizacion,Random Forest,ROC,0.88,0.8701
+Victimizacion,Random Forest,ROC,0.9,0.8986
+Victimizacion,Random Forest,ROC,0.92,0.9265
+Victimizacion,Random Forest,ROC,0.94,0.9387
+Victimizacion,Random Forest,ROC,0.96,0.9556
+Victimizacion,Random Forest,ROC,0.98,0.9907
+Victimizacion,Random Forest,ROC,1.0,1.0
+Victimizacion,Random Forest,PR,0.0,0.0
+Victimizacion,Random Forest,PR,0.02,0.1186
+Victimizacion,Random Forest,PR,0.04,0.1429
+Victimizacion,Random Forest,PR,0.06,0.1383
+Victimizacion,Random Forest,PR,0.08,0.1463
+Victimizacion,Random Forest,PR,0.1,0.1535
+Victimizacion,Random Forest,PR,0.12,0.1364
+Victimizacion,Random Forest,PR,0.14,0.1422
+Victimizacion,Random Forest,PR,0.16,0.1488
+Victimizacion,Random Forest,PR,0.18,0.1592
+Victimizacion,Random Forest,PR,0.2,0.1584
+Victimizacion,Random Forest,PR,0.22,0.169
+Victimizacion,Random Forest,PR,0.24,0.1724
+Victimizacion,Random Forest,PR,0.26,0.1679
+Victimizacion,Random Forest,PR,0.28,0.1627
+Victimizacion,Random Forest,PR,0.3,0.1642
+Victimizacion,Random Forest,PR,0.32,0.164
+Victimizacion,Random Forest,PR,0.34,0.1629
+Victimizacion,Random Forest,PR,0.36,0.1645
+Victimizacion,Random Forest,PR,0.38,0.1609
+Victimizacion,Random Forest,PR,0.4,0.165
+Victimizacion,Random Forest,PR,0.42,0.1671
+Victimizacion,Random Forest,PR,0.44,0.1597
+Victimizacion,Random Forest,PR,0.46,0.1573
+Victimizacion,Random Forest,PR,0.48,0.1521
+Victimizacion,Random Forest,PR,0.5,0.1486
+Victimizacion,Random Forest,PR,0.52,0.152
+Victimizacion,Random Forest,PR,0.54,0.1521
+Victimizacion,Random Forest,PR,0.56,0.1455
+Victimizacion,Random Forest,PR,0.58,0.1484
+Victimizacion,Random Forest,PR,0.6,0.1487
+Victimizacion,Random Forest,PR,0.62,0.1439
+Victimizacion,Random Forest,PR,0.64,0.1443
+Victimizacion,Random Forest,PR,0.66,0.1432
+Victimizacion,Random Forest,PR,0.68,0.1402
+Victimizacion,Random Forest,PR,0.7,0.1379
+Victimizacion,Random Forest,PR,0.72,0.1382
+Victimizacion,Random Forest,PR,0.74,0.1372
+Victimizacion,Random Forest,PR,0.76,0.1331
+Victimizacion,Random Forest,PR,0.78,0.1349
+Victimizacion,Random Forest,PR,0.8,0.1367
+Victimizacion,Random Forest,PR,0.82,0.1391
+Victimizacion,Random Forest,PR,0.84,0.1382
+Victimizacion,Random Forest,PR,0.86,0.1354
+Victimizacion,Random Forest,PR,0.88,0.1357
+Victimizacion,Random Forest,PR,0.9,0.1362
+Victimizacion,Random Forest,PR,0.92,0.1381
+Victimizacion,Random Forest,PR,0.94,0.1366
+Victimizacion,Random Forest,PR,0.96,0.1352
+Victimizacion,Random Forest,PR,0.98,0.1373
+Victimizacion,Random Forest,PR,1.0,0.1367
+Victimizacion,XGBoost,ROC,0.0,0.0
+Victimizacion,XGBoost,ROC,0.02,0.0207
+Victimizacion,XGBoost,ROC,0.04,0.0721
+Victimizacion,XGBoost,ROC,0.06,0.1089
+Victimizacion,XGBoost,ROC,0.08,0.1324
+Victimizacion,XGBoost,ROC,0.1,0.1666
+Victimizacion,XGBoost,ROC,0.12,0.1866
+Victimizacion,XGBoost,ROC,0.14,0.2395
+Victimizacion,XGBoost,ROC,0.16,0.2473
+Victimizacion,XGBoost,ROC,0.18,0.2601
+Victimizacion,XGBoost,ROC,0.2,0.2943
+Victimizacion,XGBoost,ROC,0.22,0.3055
+Victimizacion,XGBoost,ROC,0.24,0.314
+Victimizacion,XGBoost,ROC,0.26,0.3318
+Victimizacion,XGBoost,ROC,0.28,0.3452
+Victimizacion,XGBoost,ROC,0.3,0.3485
+Victimizacion,XGBoost,ROC,0.32,0.3615
+Victimizacion,XGBoost,ROC,0.34,0.3792
+Victimizacion,XGBoost,ROC,0.36,0.396
+Victimizacion,XGBoost,ROC,0.38,0.4232
+Victimizacion,XGBoost,ROC,0.4,0.4406
+Victimizacion,XGBoost,ROC,0.42,0.4451
+Victimizacion,XGBoost,ROC,0.44,0.4686
+Victimizacion,XGBoost,ROC,0.46,0.4784
+Victimizacion,XGBoost,ROC,0.48,0.5169
+Victimizacion,XGBoost,ROC,0.5,0.5314
+Victimizacion,XGBoost,ROC,0.52,0.5481
+Victimizacion,XGBoost,ROC,0.54,0.5818
+Victimizacion,XGBoost,ROC,0.56,0.6157
+Victimizacion,XGBoost,ROC,0.58,0.6228
+Victimizacion,XGBoost,ROC,0.6,0.6582
+Victimizacion,XGBoost,ROC,0.62,0.6852
+Victimizacion,XGBoost,ROC,0.64,0.7007
+Victimizacion,XGBoost,ROC,0.66,0.7075
+Victimizacion,XGBoost,ROC,0.68,0.764
+Victimizacion,XGBoost,ROC,0.7,0.7914
+Victimizacion,XGBoost,ROC,0.72,0.7934
+Victimizacion,XGBoost,ROC,0.74,0.8099
+Victimizacion,XGBoost,ROC,0.76,0.8315
+Victimizacion,XGBoost,ROC,0.78,0.838
+Victimizacion,XGBoost,ROC,0.8,0.84
+Victimizacion,XGBoost,ROC,0.82,0.8728
+Victimizacion,XGBoost,ROC,0.84,0.8925
+Victimizacion,XGBoost,ROC,0.86,0.9056
+Victimizacion,XGBoost,ROC,0.88,0.914
+Victimizacion,XGBoost,ROC,0.9,0.9152
+Victimizacion,XGBoost,ROC,0.92,0.9297
+Victimizacion,XGBoost,ROC,0.94,0.9333
+Victimizacion,XGBoost,ROC,0.96,0.9539
+Victimizacion,XGBoost,ROC,0.98,0.9874
+Victimizacion,XGBoost,ROC,1.0,1.0
+Victimizacion,XGBoost,PR,0.0,0.0
+Victimizacion,XGBoost,PR,0.02,0.1388
+Victimizacion,XGBoost,PR,0.04,0.1805
+Victimizacion,XGBoost,PR,0.06,0.2033
+Victimizacion,XGBoost,PR,0.08,0.2172
+Victimizacion,XGBoost,PR,0.1,0.2133
+Victimizacion,XGBoost,PR,0.12,0.2177
+Victimizacion,XGBoost,PR,0.14,0.213
+Victimizacion,XGBoost,PR,0.16,0.2067
+Victimizacion,XGBoost,PR,0.18,0.1967
+Victimizacion,XGBoost,PR,0.2,0.2029
+Victimizacion,XGBoost,PR,0.22,0.2137
+Victimizacion,XGBoost,PR,0.24,0.2081
+Victimizacion,XGBoost,PR,0.26,0.1871
+Victimizacion,XGBoost,PR,0.28,0.1849
+Victimizacion,XGBoost,PR,0.3,0.1853
+Victimizacion,XGBoost,PR,0.32,0.1685
+Victimizacion,XGBoost,PR,0.34,0.1688
+Victimizacion,XGBoost,PR,0.36,0.1566
+Victimizacion,XGBoost,PR,0.38,0.1502
+Victimizacion,XGBoost,PR,0.4,0.1485
+Victimizacion,XGBoost,PR,0.42,0.1499
+Victimizacion,XGBoost,PR,0.44,0.1487
+Victimizacion,XGBoost,PR,0.46,0.1436
+Victimizacion,XGBoost,PR,0.48,0.1413
+Victimizacion,XGBoost,PR,0.5,0.1446
+Victimizacion,XGBoost,PR,0.52,0.1444
+Victimizacion,XGBoost,PR,0.54,0.1425
+Victimizacion,XGBoost,PR,0.56,0.1446
+Victimizacion,XGBoost,PR,0.58,0.1454
+Victimizacion,XGBoost,PR,0.6,0.1484
+Victimizacion,XGBoost,PR,0.62,0.1467
+Victimizacion,XGBoost,PR,0.64,0.1466
+Victimizacion,XGBoost,PR,0.66,0.1482
+Victimizacion,XGBoost,PR,0.68,0.1486
+Victimizacion,XGBoost,PR,0.7,0.1479
+Victimizacion,XGBoost,PR,0.72,0.1467
+Victimizacion,XGBoost,PR,0.74,0.1495
+Victimizacion,XGBoost,PR,0.76,0.1505
+Victimizacion,XGBoost,PR,0.78,0.1503
+Victimizacion,XGBoost,PR,0.8,0.1471
+Victimizacion,XGBoost,PR,0.82,0.1473
+Victimizacion,XGBoost,PR,0.84,0.1424
+Victimizacion,XGBoost,PR,0.86,0.1441
+Victimizacion,XGBoost,PR,0.88,0.1448
+Victimizacion,XGBoost,PR,0.9,0.1429
+Victimizacion,XGBoost,PR,0.92,0.1382
+Victimizacion,XGBoost,PR,0.94,0.1354
+Victimizacion,XGBoost,PR,0.96,0.1362
+Victimizacion,XGBoost,PR,0.98,0.1368
+Victimizacion,XGBoost,PR,1.0,0.1367

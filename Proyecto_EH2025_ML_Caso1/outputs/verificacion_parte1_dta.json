@@ -1,0 +1,38 @@
+{
+  "catalogo": "https://anda.ine.gob.bo/index.php/catalog/256",
+  "fecha_descarga_declarada": "2026-11-15",
+  "verificacion_utc": "2026-11-23T03:39:47.529463+00:00",
+  "fuentes": {
+    "Persona": {
+      "original": "EH2025_Persona.sav",
+      "sha256_original": "0dc06e6e6191699e9d58d6654e9909c096a88b2310a4bba3c68ebe87a98d8ba8",
+      "filas_originales": 39485,
+      "entrada_cruce": "EH2025_Persona.dta",
+      "dta_derivado": true,
+      "columnas": 16
+    },
+    "Vivienda": {
+      "original": "EH2025_Vivienda_1.sav",
+      "sha256_original": "987fb15c79cb73f026bd6533752bfe8617076f534c85a95c5aa2ef226d2c98a5",
+      "filas_originales": 12726,
+      "entrada_cruce": "EH2025_Vivienda.dta",
+      "dta_derivado": true,
+      "columnas": 6
+    }
+  },
+  "duckdb": "2.0.0",
+  "filas_cruzadas": 39485,
+  "columnas_cruzadas": 21,
+  "diferencias_dta_menos_referencia": 0,
+  "diferencias_referencia_menos_dta": 0,
+  "suma_factor": 11980604.999999123,
+  "clave": "LEFT JOIN Persona.folio = Vivienda.folio",
+  "lectura_dta_lote": 5000,
+  "limite_duckdb": "512MB",
+  "hilos": 2,
+  "eda": {
+    "archivo": "outputs/eda_report.html",
+    "sha256": "4bb197d1a9a718d683e774c6a3bd381516e2f094db2c462edec015af77b6d7e7",
+    "bytes": 847981
+  }
+}

@@ -1,0 +1,43 @@
+objetivo,modelo,variable,caida_AP,DE
+Percepcion_Discriminacion,Regresión logística,Edad en años,0.002480706417969111,0.0030869063369191522
+Percepcion_Discriminacion,Regresión logística,Sexo,0.0012268950707832488,0.005941648438532236
+Percepcion_Discriminacion,Regresión logística,Área,0.006409315153177053,0.002629398360322491
+Percepcion_Discriminacion,Regresión logística,Departamento,0.04034027060699421,0.011545600020852599
+Percepcion_Discriminacion,Regresión logística,Nivel educativo,0.01648186227180557,0.00894132066677788
+Percepcion_Discriminacion,Regresión logística,Pobreza monetaria,0.006221148853450082,0.001975320242512737
+Percepcion_Discriminacion,Regresión logística,Autoidentificación NPIOC o afroboliviana,0.012954376366645804,0.00537553368941594
+Percepcion_Discriminacion,Random Forest,Edad en años,-0.000436469451152946,0.007579511958034525
+Percepcion_Discriminacion,Random Forest,Sexo,-0.005907578374458123,0.009944707086597709
+Percepcion_Discriminacion,Random Forest,Área,-0.005014614579473675,0.004795160148177849
+Percepcion_Discriminacion,Random Forest,Departamento,0.04113897886552813,0.011170955362689477
+Percepcion_Discriminacion,Random Forest,Nivel educativo,0.009098271282504946,0.009724786489657133
+Percepcion_Discriminacion,Random Forest,Pobreza monetaria,0.01047794458614391,0.008664879467667213
+Percepcion_Discriminacion,Random Forest,Autoidentificación NPIOC o afroboliviana,0.013806285126575193,0.0051263813478373745
+Percepcion_Discriminacion,XGBoost,Edad en años,0.007197405121576425,0.004840753701346614
+Percepcion_Discriminacion,XGBoost,Sexo,-0.0008803852034198256,0.007380251976583721
+Percepcion_Discriminacion,XGBoost,Área,0.0009212227923510674,0.002917093838355424
+Percepcion_Discriminacion,XGBoost,Departamento,0.04551924483592297,0.01150556307059028
+Percepcion_Discriminacion,XGBoost,Nivel educativo,0.01570141006098246,0.008479916885033403
+Percepcion_Discriminacion,XGBoost,Pobreza monetaria,0.006967039155433346,0.002300040911459599
+Percepcion_Discriminacion,XGBoost,Autoidentificación NPIOC o afroboliviana,0.013893408982704478,0.0038441692250608334
+Victimizacion,Regresión logística,Edad en años,0.0030343785469337885,0.002119005338329387
+Victimizacion,Regresión logística,Sexo,3.694478941585755e-05,0.001744462160600308
+Victimizacion,Regresión logística,Área,-0.009414286854612708,0.009537658424007438
+Victimizacion,Regresión logística,Departamento,0.02949384805986452,0.006499817728327019
+Victimizacion,Regresión logística,Nivel educativo,0.006488312535012736,0.0035349826208057504
+Victimizacion,Regresión logística,Pobreza monetaria,-0.0013148445512579127,0.003328205849041522
+Victimizacion,Regresión logística,Autoidentificación NPIOC o afroboliviana,0.01785766564158754,0.0037343837043291015
+Victimizacion,Random Forest,Edad en años,-0.0007254154316825246,0.00625846036004084
+Victimizacion,Random Forest,Sexo,0.003418915278946408,0.004200929339184486
+Victimizacion,Random Forest,Área,-0.0067130939224617405,0.008479839703775938
+Victimizacion,Random Forest,Departamento,0.0006982875376683906,0.006437956734794132
+Victimizacion,Random Forest,Nivel educativo,-0.002370587545508768,0.0056645481490955355
+Victimizacion,Random Forest,Pobreza monetaria,-0.0008640044746582115,0.0032405707349116002
+Victimizacion,Random Forest,Autoidentificación NPIOC o afroboliviana,-0.0002409465100144753,0.0038105404536940284
+Victimizacion,XGBoost,Edad en años,0.012701942831618449,0.0039034370591803304
+Victimizacion,XGBoost,Sexo,0.0003153292128116464,0.00012050105761047118
+Victimizacion,XGBoost,Área,-0.006192444850426753,0.010613134030061666
+Victimizacion,XGBoost,Departamento,0.019702858814728986,0.005588801202131653
+Victimizacion,XGBoost,Nivel educativo,-0.002114817385190676,0.0038559954228963218
+Victimizacion,XGBoost,Pobreza monetaria,-0.0009860260963724,0.0019086667757040733
+Victimizacion,XGBoost,Autoidentificación NPIOC o afroboliviana,0.0062574852737518755,0.0021709576394468248
